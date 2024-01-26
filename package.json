@@ -1,0 +1,25 @@
+{
+  "name": "hexlet-js-evgeniy",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "abobus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R1zd1ch/hexlet-js.git"
+  },
+  "keywords": [
+    "abobus",
+    "abobus",
+    "hexlet"
+  ],
+  "author": "Evgeny Cheraev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R1zd1ch/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/R1zd1ch/hexlet-js#readme"
+}
